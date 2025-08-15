@@ -44,10 +44,7 @@ namespace assignment_3
             //    Console.WriteLine($"{number} is Negative");
             //}
 
-
-
             #endregion
-
 
             #region Q3
 
@@ -375,10 +372,10 @@ namespace assignment_3
             #endregion
 
             #region Q14
-            //‎ Write a program to allow the user to enter int and print the REVERSED of ‎it.‎
+            //‎ Write a program to allow the user to enter int and print the REVERSED of it.
 
             //sol
-
+            #endregion
 
 
             #region Q
